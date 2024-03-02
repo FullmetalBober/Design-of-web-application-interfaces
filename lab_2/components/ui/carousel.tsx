@@ -218,7 +218,7 @@ const CarouselPrevious = React.forwardRef<
       {...props}
     >
       {/* <ArrowLeft className="h-4 w-4" /> */}
-      <Image src='/boton izquierdo.png' alt='arrow-left' width={48} height={48} />
+      <Image src='/boton izquierdo.webp' alt='arrow-left' width={48} height={48} />
       <span className="sr-only">Previous slide</span>
     </Button>
   )
@@ -248,7 +248,7 @@ const CarouselNext = React.forwardRef<
       {...props}
     >
       {/* <ArrowRight className="h-4 w-4" /> */}
-      <Image src='/bton derecho.png' alt='arrow-right' width={48} height={48} />
+      <Image src='/bton derecho.webp' alt='arrow-right' width={48} height={48} />
       <span className="sr-only">Next slide</span>
     </Button>
   )
