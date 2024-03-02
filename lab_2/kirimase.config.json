@@ -1,0 +1,12 @@
+{
+  "hasSrc": false,
+  "packages": [
+    "shadcn-ui"
+  ],
+  "preferredPackageManager": "pnpm",
+  "t3": false,
+  "alias": "@",
+  "rootPath": "",
+  "componentLib": "shadcn-ui",
+  "auth": null
+}
